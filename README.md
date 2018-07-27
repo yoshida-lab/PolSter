@@ -38,7 +38,7 @@ To interpret transcription elongation rate, you can create such figures as follo
 
 ## Credit
 
-If you use the in your work, please cite:
+If you use this program in your work, please cite:
 
 Yumi Kawamura, Shinsuke Koyama, and Ryo Yoshida., Statistical inference of the rate of RNA polymerase II elongation by total RNA sequencing., *Bioinformatics*, 2018, *in preparation*.
 
