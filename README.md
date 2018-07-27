@@ -33,12 +33,12 @@ To interpret transcription elongation rate, you can create such figures as follo
 
 ## Reference
 
-[1] Sigova AA, Mullen AC, Molinie B, Gupta S et al. Divergent transcription of long noncoding RNA/mRNA gene pairs in embryonic stem cells. *Proc Natl Acad Sci U S A*, 2013 Feb 19;110(8):2876-81. PMID: 23382218
+[1] Sigova AA, Mullen AC, Molinie B, Gupta S et al., Divergent transcription of long noncoding RNA/mRNA gene pairs in embryonic stem cells., *Proc Natl Acad Sci U S A*, 2013 Feb 19;110(8):2876-81., PMID: 23382218
 
 
 ## Credit
 
 If you use the in your work, please cite:
 
-Yumi Kawamura, Shinsuke Koyama, and Ryo Yoshida. "Statistical inference of the rate of RNA polymerase II elongation by total RNA sequencing.", *Bioinformatics*, 2018, *in preparation*.
+Yumi Kawamura, Shinsuke Koyama, and Ryo Yoshida., Statistical inference of the rate of RNA polymerase II elongation by total RNA sequencing., *Bioinformatics*, 2018, *in preparation*.
 
