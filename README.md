@@ -8,7 +8,7 @@ The RNA-seq library was prepared from rRNA-depleted non-poly-A transcripts (tota
 Run example Total RNA-seq dataset [1] (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE36799) of this project.
 These were the following commands that were used to estimate Pol II density in mouse dataset.
 
-1. Download input data
+1. Download input data "input_data.zip"
 2. gcc -lm Estimate_Pol2.c
 3. ./a.out /DIRECTORY_input_data/
 
@@ -28,7 +28,7 @@ SRR960177_pickup_gene_num_joint_ei_av_mu_tau_sigma.txt: hyper parameter for each
 
 SRR960177_pickup_gene_num_joint_ei_av_chrPosSE_sig_len5cor05_cov01raw.txt: gene number, chrosome numer, gene name, strand, start, end. Here, one gene resulted in combined all isoforms in one.
 
-To interpret transcription elongation rate, you can create such figures as follows. The Pol II existence probability is inversely proportional to the elongation rate.
+To interpret transcription elongation rate, you can create such figures as "Estimated_result_example.jpg". The Pol II existence probability is inversely proportional to the elongation rate.
 
 
 ## Reference
