@@ -12,6 +12,8 @@ These were the following commands that were used to estimate Pol II density in m
 2. gcc -lm Estimate_Pol2.c
 3. ./a.out /DIRECTORY_input_data/
 
+To interpret transcription elongation rate, you can create such figures as "Estimated_result_example.jpg". The Pol II existence probability is inversely proportional to the elongation rate.
+
 ## Usage
 
 ### Input formats
@@ -27,9 +29,6 @@ Particle_num.txt: The number of particles for particle filter: recommend more th
 SRR960177_pickup_gene_num_joint_ei_av_mu_tau_sigma.txt: hyper parameter for each gene, mu is the initial state of variable of state model, tau is noise of system model, and sigma is noise of meaturement model (log).
 
 SRR960177_pickup_gene_num_joint_ei_av_chrPosSE_sig_len5cor05_cov01raw.txt: gene number, chrosome numer, gene name, strand, start, end. Here, one gene resulted in combined all isoforms in one.
-
-To interpret transcription elongation rate, you can create such figures as "Estimated_result_example.jpg". The Pol II existence probability is inversely proportional to the elongation rate.
-
 
 ## Reference
 
