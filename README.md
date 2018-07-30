@@ -1,7 +1,7 @@
 # PolSter
 Pol II density estimated by statistical inference of transcription elongation rate by total RNA-seq
 ## Overview
-The RNA-seq library was prepared from rRNA-depleted non-poly-A transcripts (Total RNA-seq) provides a transcriptomic profile of nascent RNAs undergoing transcription with co-transcriptional splicing. In general, the RNA-seq reads exhibit a sawtooth pattern in a gene, which is characterized by a monotonically decreasing gradient across introns in the 5’ to 3’ direction, and by substantially higher levels of RNA-seq reads present in exonic regions. Such patterns result from the process of underlying transcription elongation by RNA polymerase II (Pol II). The objective is to reconstruct the spatial distribution of transcription elongation rates in a gene from a given noisy, sawtooth-like profile.
+The RNA-seq library was prepared from rRNA-depleted non-poly-A transcripts (total RNA-seq) provides a transcriptomic profile of nascent RNAs undergoing transcription with co-transcriptional splicing. In general, the RNA-seq reads exhibit a sawtooth pattern in a gene, which is characterized by a monotonically decreasing gradient across introns in the 5’ to 3’ direction, and by substantially higher levels of RNA-seq reads present in exonic regions. Such patterns result from the process of underlying transcription elongation by RNA polymerase II (Pol II). The objective is to reconstruct the spatial distribution of transcription elongation rates in a gene from a given noisy, sawtooth-like profile.
 
 
 ## Demonstoration
