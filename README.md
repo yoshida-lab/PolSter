@@ -28,7 +28,7 @@ Particle_num.txt: The number of particles for particle filter: recommend more th
 
 SRR960177_pickup_gene_num_joint_ei_av_mu_tau_sigma.txt: hyper parameter for each gene, mu is the initial state of variable of state model, tau is noise of system model, and sigma is noise of measurement model (log). The detail is described in our paper as follows. 
 
-SRR960177_pickup_gene_num_joint_ei_av_chrPosSE_sig_len5cor05_cov01raw.txt: gene number, chrosome numer, gene name, strand, start, end. Here, one gene resulted in combined all isoforms in one.
+SRR960177_pickup_gene_num_joint_ei_av_chrPosSE_sig_len5cor05_cov01raw.txt: gene number, chromosome number, gene name, strand, start, end. Here, one gene resulted in combined all isoforms in one.
 
 ## Reference
 
