@@ -4,7 +4,7 @@ Pol II density estimated by statistical inference of transcription elongation ra
 The RNA-seq library was prepared from rRNA-depleted non-poly-A transcripts (total RNA-seq) provides a transcriptomic profile of nascent RNAs undergoing transcription with co-transcriptional splicing. In general, the RNA-seq reads exhibit a sawtooth pattern in a gene, which is characterized by a monotonically decreasing gradient across introns in the 5’ to 3’ direction, and by substantially higher levels of RNA-seq reads present in exonic regions. Such patterns result from the process of underlying transcription elongation by RNA polymerase II (Pol II). The objective is to reconstruct the spatial distribution of transcription elongation rates in a gene from a given noisy, sawtooth-like profile.
 
 
-## Demonstoration
+## Demonstration
 Run example Total RNA-seq dataset [1] (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE36799) of this project.
 These were the following commands that were used to estimate Pol II density in mouse dataset.
 
