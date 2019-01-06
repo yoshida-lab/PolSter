@@ -22,9 +22,9 @@ Here's an example of a potential input file.
 
 *_read.txt: read count data across genomic bin positions from TSS, * shows gene number. 
 
-*_EI.txt: exon or intron across genomic bin positions, * shows gene number
+*_EI.txt: exon or intron across genomic bin positions, * shows gene number.
 
-Particle_num.txt: The number of particles for particle filter: recommend more than 100000
+Particle_num.txt: The number of particles for particle filter: recommend more than 100000.
 
 SRR960177_pickup_gene_num_joint_ei_av_mu_tau_sigma.txt: hyper parameter for each gene, mu is the initial state of variable of state model, tau is noise of system model, and sigma is noise of measurement model (log). The detail is described in our paper as follows. 
 
