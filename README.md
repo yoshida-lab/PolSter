@@ -39,5 +39,5 @@ SRR960177_pickup_gene_num_joint_ei_av_chrPosSE_sig_len5cor05_cov01raw.txt: gene 
 
 If you use this program in your work, please cite:
 
-Yumi Kawamura, Shinsuke Koyama, and Ryo Yoshida., Statistical inference of the rate of RNA polymerase II elongation by total RNA sequencing., *Bioinformatics*, 30 October 2018. (*in press*)
+Yumi Kawamura, Shinsuke Koyama, and Ryo Yoshida., Statistical inference of the rate of RNA polymerase II elongation by total RNA sequencing., *Bioinformatics*, Volume 35, Issue 11, 1 June 2019, Pages 1877–1884
 
